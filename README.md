@@ -1,1 +1,1 @@
-## This project includes Exploratory Data Analysis of Insurance Data 
+This project includes Exploratory Data Analysis of Insurance Data 
